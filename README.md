@@ -41,7 +41,6 @@ Plus perhaps? A bit of future-proofing.
 - **Format:** Markdown files optimized for AI model consumption
 - **Context Requirements:** 4k+ token context recommended for full experience
 - **Compatibility:** Tested with Claude, GPT-4, and other advanced models
-- **Version Control:** Each character includes version history and update notes
 
 ## Feedback & Contact
 
