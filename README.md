@@ -5,7 +5,7 @@
 
 You know those characters that feel like real people? The ones with messy contradictions, hidden vulnerabilities, and psychological depth that takes time to unfold? That's what I create.
 
-These are the **Director's Cut** versions of my character cards, the extended, uncut editions with complete psychological profiles, detailed behavioral modeling, and enough depth to handle long-form interactions without losing authenticity.
+These are the **Director's Cut** versions of my character cards model instructions, the extended, uncut editions with complete psychological profiles, detailed behavioral modeling, and enough depth to handle long-form interactions without losing authenticity.
 
 If you've found this repository, you probably already know my work from [Chub.ai](https://chub.ai/users/DarkSkies). These are the characters model instructions you'll find there, but with everything turned up to eleven.
 
