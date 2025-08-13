@@ -1,5 +1,5 @@
-# Director's Cut Instructions
-*Extended character definitions for those who want to go deeper*
+# DarkSkies Director's Cut Model Instructions
+*Extended character instructions for those who want to go deeper*
 
 ## What This Is
 
