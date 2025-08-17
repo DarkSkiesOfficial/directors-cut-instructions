@@ -1,5 +1,4 @@
 # Director's Cut Model Instructions - Juniper Calloway
-*Research-Enhanced Behavioral Architecture for Maximum Character Consistency*
 
 ---
 
